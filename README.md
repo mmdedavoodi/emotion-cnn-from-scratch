@@ -3,21 +3,6 @@ A full **Convolutional Neural Network** trained **from zero** (no transfer learn
 
 ---
 
-## 📌 Table of Contents
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Features](#features)
-- [Installation](#installation)
-- [Project Structure](#project-structure)
-- [Model Architecture](#model-architecture)
-- [Training](#training)
-- [Evaluation](#evaluation)
-- [Exporting the Model](#exporting-the-model)
-- [Results](#results)
-- [License](#license)
-
----
-
 ## 🚀 Overview
 This project trains a custom CNN to classify the following **seven emotions**:
 
