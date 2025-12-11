@@ -186,10 +186,3 @@ loaded_model(image.unsqueeze(0).to(device))
 ## 📜 License
 MIT License – use it, modify it, or build on top of it.
 
----
-
-If you also want:
-✅ A **cleaner architecture diagram**,  
-✅ A **GIF demo**,  
-✅ Or a **more polished GitHub badge header**,  
-just tell me — you should present this project like you actually want employers to notice it.
